@@ -25,6 +25,7 @@ setup(name='my315ok.portlet.flash',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'plone.app.form',
           'Products.PloneTestCase',          
           # -*- Extra requirements: -*-
       ],
